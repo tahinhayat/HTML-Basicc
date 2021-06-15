@@ -1,0 +1,43 @@
+marquee{
+    color: white;
+    background-color: tomato;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 60px;
+}
+h1 b{
+    color: whitesmoke;
+    background-color: rgb(50, 175, 224);
+    font-size: 35px;
+    margin-left: 700px;
+}
+.video{
+    width: 50%;
+    height: 450px;
+}
+.cap{
+    margin: auto;
+}
+.map{
+    width: 100%;
+    height: 500px;
+}
+footer marquee{
+    color: rgb(0, 0, 0);
+    background-color: rgb(59, 222, 247);
+    font-size: 30px;
+    font-weight: bold;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    height: 60px;
+}
+button{
+    padding: 8px 30px;
+    background-color: rgb(238, 67, 0);
+    font-size: 22px;
+    border: none;
+    margin-left: 750px;
+}
+button a{
+    color: white;
+}
